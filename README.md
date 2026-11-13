@@ -1,21 +1,29 @@
-# Tech Stack: 
-* SQL, Python, Power BI
+# Technology Stack:
+
+* SQL
+* Python
+* Power BI
 
 # Model Implemented: 
-* Random Forests and Churn
+
+* Random Forest
+* Churn analysis
 
 # Customer-Churn-Analysis
-Customer Churn Analysis for a Telecommunication Provider (U.S. based telecommunications provider examples: Verizon, Comcast, AT&T, etc.)
 
-I perform customer churn analysis for a U.S. based telecommunications giant, identifying trends and patterns amongst the largest churning consumer groups by gender, age group, geography, services used, payment method, contract length, tenure, and internet service. The analysis also highlight the reasons for customer churn and implements a Random Forest to predict churn and identify high risk customers
+Customer churn analysis for a Telecommunication Provider (U.S. based telecommunications provider examples: Verizon, Comcast, AT&T, etc.)
+
+I perform customer churn analysis for a U.S. based telecommunications giant, identifying trends and patterns amongst the largest churning consumer groups by gender, age group, geography, services used, payment method, contract length, tenure, and internet service type. 
+
+The analysis also highlight reasons for customer churn and implements a Random Forest to identify high risk customers.
 
 Analytics insights are synthesized into a Power BI dashboard
 📊 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDVjMDBlZjctZTllNS00NGRiLTk2ZTYtODliYTk2ZTRjYjBlIiwidCI6ImZiYmY2YzYwLTAzNDQtNGMyOS05NDU5LTcyNTY4NTczOWIxOSIsImMiOjN9)**
 
 ## Overview
 
-* The analysis spanned across 6,418 customers.  Of these 411 were new joiners, whereas 1,732 (27%) had churned
-* Churn Rate = 27%.  The time duration of this dataset is kept unclear due to confidentiality purposes
+* The analysis spanned across 6,418 customers.  Of these 411 were new joiners and 1,732 (27%) had churned
+* Total Churn Rate = 27%.
 * Churn Rate by Gender: Females (64.15%) Males (35.85%)
 
 Below, I identify groups with highest churn rates for every category:
@@ -25,37 +33,45 @@ Below, I identify groups with highest churn rates for every category:
 * Churn Rate by Contract and Internet Type, respectively: Month-to-Month (47%) and Fiber Optic (41%)
 * Churn Rate by Payment Method: Mailed Check (37.8%)
 * Churn Rate by Tenure: >= 24 Months (28%)
-* Churn Rate by Reason: Competitor (44%)
-    * Other Churn Reasons: Attitude (17.38%), Dissatisfaction (17.32%), Price (11.32%), Other (10%)
+* Churn Rate by Reason: Competitor (44%). This means 44% of the churners switch to competitors
+    * Other Churn Reasons: Service Provider Attitude (17.38%), Dissatisfaction (17.32%), Price (11.32%), Other (10%)
 * Churn Rate by Service: Phone Service (90.3%), Internet Service (78.3%), and Unlimited Data (67.5%)
 
 
 ## Business Recommendations
 
-### Offer targeted discounts to female customers and schedule bi-annual device checks, conduct research on whether competitor has only female oriented product offerings
-* Losing 45% of the female churners to competitors
-* Of predicted churners, 65% are females
+### Offer targeted discounts to female customers and schedule bi-annual device checks
+### Analyze competitor offerings to see if they have female oriented product lines
 
-### Train non-premium customer service staff, build bi-weekly accountability cadence, award bonuses based on customer service ratings:
-* Premium Support customers stay 71.1% of the times, whereas we lose 18.2% and 17% of male and female customers due to attitude of support person or service providers. We lose 17% of the total customers due to attitude issues.
+* Currently losing 45% of the female churners to competitors
+* 65% of predicted churners are females
+
+### Train non-premium customer service staff and implement bi-weekly accountability cadence
+### Award bonuses based on customer service ratings
+
+* Premium Support customers stay 71.1% of the times; we lose 18.2% and 17% of male and female customers due to attitude of support person or service providers.
 
 ### Investigate marketing, customer/product service, and discounts offered on Fiber Optic, DSL, Unlimited Data, Phone, and Internet services in Jammu and Kashmir.  
-* 77.05% of the churners in Jammu and Kashmir are going to competitors because the competitor made better offers (94%).  Additionally, 70.4% of the user base in state is on Fiber Optic.
+
+* 77.05% of the churners in Jammu and Kashmir are going to competitors because the competitor made better offers (94%).  Additionally, 70.4% of the user base in Jammu and Kashmir is on Fiber Optic.
 
 ### Investigate product and network reliability, lower prices, implement bi annual device health check, and run discount campaigns for Fiber Optic:
-* 38 and 36% of the churners using Fiber Optic cite better device and competitor offer as the reason for switching to competitors. Additionally, churners using Fiber Optics cite high pricing, network and service dissatisfaction, and product dissatisfaction as a reasons for churning.
+
+* 38 and 36% of the churners using Fiber Optic cite better device and competitor offer as the reason for switching to competitors. Churners using Fiber Optics cite high pricing, network and service dissatisfaction, and product dissatisfaction as reasons for switching.
 
 ### Compare offers and device functionalities with competitor offering. Focus on Fiber Optic, Phone, Unlimited Data, and Internet service since we lose most customers there
-* We lose 44% of the customers to competitors who cite better devices and offers as the top two reasons (74% together)
+
+* We lose 44% of the customers to competitors. Customers cite better devices and offers as the top two churn reasons (74% together)
 
 ### Offer longer contracts for Phone, Internet, Unlimited Data, and Fiber Optic:
+
 * 47% of the churners are on a monthly contract for Phone, Internet, Unlimited Data, and Fiber Optic. Increasing the contract length may reduce churn because the churn rate is inversely proportional to the contract length
 * One month contracts work well for the Premium Support, Online Security, Online Backup and Device Protection Plan customers
-* 92% of the predicted churners are on a month-to-month contract, so they are largely not working!
+* 92% of the predicted churners are on a month-to-month contract.
 
 ## Churners by Gender:
 
-I do a separate churners by gender analysis because of the churners predicted by Random Forest, 65% are females and 35% are males
+I do a separate churners by gender analysis because 65% are females and 35% are males
 
 ## Female Churners:
 
