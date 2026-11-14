@@ -83,16 +83,17 @@ Analytical insights synthesized into a Power BI dashboard
 
 1. Offer longer contracts, generally, and for Fiber Optic and Unlimited Data, specifically:
 
-* Customer churn for month-to-month Fiber Optic users is 59.3%, it is 5.8% for those on two year contract for Fiber Optic. Similarly, churn rate for Unlimited Data users on month-to-month contract is 73.6% compared to 57.8% for those on two-year contract
+* Customer churn for month-to-month Fiber Optic users is 59.3%, it is 5.8% for those on two year contract. Similarly, churn rate for Unlimited Data users on month-to-month contract is 73.6% compared to 57.8% for those on two-year contract
 * 92% of the predicted churners are on a month-to-month contract
 
 ### Services to expand:
 
-*  71.6% and 71.1% of the Online Security and Premium Support users stay
+*  Online Security and Premium Support
+   * 71% of the users availing these services stay
 
 ## Next Steps
 
 * Conduct focus group surveys with the following user groups: females (churn rate = 64%), month-to-month contract (churn rate = 47%), and Jammu and Kashmir (churn rate = 57%)
-* Analyze Voice of Customer and Customer Call Report records to understand what specifically in devices or offers is causing customers to switch
+* Analyze Voice of Customer and Customer Call Report records to understand what specifically in devices or offers is causing customers to switch to competitors
 * Investigate device health check cadence. Analyze if it needs to be increased
-* Conduct focus group surveys with females over 50 in Jammu and Kashmir who are on a month-to-month contract of Fiber Optic and Phone Services to understand what is causing them to move to competitors
+* Monitor trends amongst the following user groups: females (predicted churn rate = 65%), credit card (predicted churn rate = 51%), and over 50 (predicted churn rate = 36%)
