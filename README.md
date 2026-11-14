@@ -32,8 +32,6 @@ Analytical insights synthesized into a Power BI dashboard
    * Churn Rate by Payment Method: Mailed Check (37.8%)
    * Churn Rate by Tenure: >= 24 Months (28%)
    * Churn Rate by Service: Phone Service (90.3%), Internet Service (78.3%), and Unlimited Data (67.5%)
-   * Churn Rate by Reason: Competitor (44%). This means 44% of the churners switched to competitors
-    * Other Churn Reasons: Service Provider Attitude (17.38%), Dissatisfaction (17.32%), Price (11.32%), Other (10%)
 
 4. Identify top 3 reasons for customer churn
 
