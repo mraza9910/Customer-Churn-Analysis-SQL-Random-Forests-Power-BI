@@ -65,7 +65,7 @@ Analytical insights synthesized into a Power BI dashboard
 * 77.05% of the churners in Jammu and Kashmir left for competitors because the competitor made better offers (per 94% of the churners)
 * Churn rate for Fiber Optic customers in Jammu and Kashmir was 70.4% compared to 41.1% overall. Similarly, churn rate for DSL customers in Jammu and Kashmir was 43.1%
 * 77.1% of Jammu and Kashmir churners had month-to-month contracts
-* 80.8% of the churners in Jammu and Kashmir used mailed checks, compared 36.7% churners using credit card
+* 80.8% of the churners in Jammu and Kashmir used mailed checks, compared to 36.7% churners using credit card
 
 ### Fiber Optic:
 1. Offer lower prices and run discount campaigns for Fiber Optic (focus on month-to-month contract users) 
