@@ -74,10 +74,11 @@ Analytical insights synthesized into a Power BI dashboard
 
 * 38% and 36% of the churners using Fiber Optic cited better device and competitor offers as the reason for switching, respectively. Churners using Fiber Optics also cited high pricing, network and service dissatisfaction, and product dissatisfaction as reasons for switching
 
-### Competitors:
-1. Compare offers and device functionalities with competitor offering. Focus on Fiber Optic, Phone, Unlimited Data, and Internet service since we lose most customers there
+### Payment Method
 
-* We lose 44% of the customers to competitors. Customers cite better devices and offers as the top two churn reasons (74% together)
+1. Incentivize credit card user by offering cashback points or service discounts. Partner with a credit card retailer to rollout programs
+
+* Credit card users are twice as likely to stay compared to those using mailed checks/bank withdrawal
 
 ### Contract Length:
 
@@ -85,6 +86,12 @@ Analytical insights synthesized into a Power BI dashboard
 
 * Customer churn for month-to-month Fiber Optic users is 59.3%, it is 5.8% for those on two year contract. Similarly, churn rate for Unlimited Data users on month-to-month contract is 73.6% compared to 57.8% for those on two-year contract
 * 92% of the predicted churners are on a month-to-month contract
+
+### Competitors:
+1. Compare offers and device functionalities with competitor offering. Focus on Fiber Optic, Phone, Unlimited Data, and Internet service since we lose most customers there
+
+* We lose 44% of the customers to competitors. Customers cite better devices and offers as the top two churn reasons (74% together)
+
 
 ### Services to expand:
 
