@@ -71,7 +71,7 @@ Analytical insights synthesized into a Power BI dashboard
 
 ### Fiber Optic:
 1. Offer lower prices and run discount campaigns for Fiber Optic (focus on month-to-month contract users) 
-2. Implement bi annual device health check for Fiber Optic:
+2. Implement bi annual device health check for Fiber Optic
 3. Investigate product and network reliability for Fiber Optic
 
 * 38% and 36% of the churners using Fiber Optic cited better device and competitor offers as the reason for switching, respectively. Churners using Fiber Optics also cited high pricing, network and service dissatisfaction, and product dissatisfaction as reasons for switching
@@ -90,10 +90,11 @@ Analytical insights synthesized into a Power BI dashboard
 
 ### Services to expand:
 
-*  71.6% of the Online Security and 71.1% of the Premium Support users stay
+*  71.6% and 71.1% of the Online Security and Premium Support users stay
 
 ## Next Steps
 
+* Conduct focus group surveys with the following user groups: females (churn rate = 64%), month-to-month contract (churn rate = 47%), and Jammu and Kashmir (churn rate = 57%)
 * Analyze Voice of Customer and Customer Call Report records to understand what specifically in devices or offers is causing customers to switch
-* Investigate device failure %, device health check cadence
-* Conduct focus group surveys with females over 50 in Jammu and Kashmir who are on a month-to-month contract of Fiber Optic, Phone, Internet, and Unlimited Data Services to understand what is causing them to move to competitors
+* Investigate device health check cadence. Analyze if it needs to be increased
+* Conduct focus group surveys with females over 50 in Jammu and Kashmir who are on a month-to-month contract of Fiber Optic and Phone Services to understand what is causing them to move to competitors
