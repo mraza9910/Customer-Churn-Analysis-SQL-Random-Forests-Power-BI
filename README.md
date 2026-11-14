@@ -43,10 +43,10 @@ Analytical insights synthesized into a Power BI dashboard
      
 ## Business Recommendations:
    
-#### Offer discounts to female customers and schedule bi-annual device checks
-#### Offer one-two year contracts for female customers
-#### Target females in Jammu and Kashmir (churning at 59%)
-#### Analyze competitor product offerings to see if they have female oriented product lines.  If so, offer similar products
+1. Offer discounts to female customers and schedule bi-annual device checks
+2. Offer one-two year contracts for female customers
+3. Target females in Jammu and Kashmir (churning at 59%)
+4. Analyze competitor product offerings to see if they have female oriented product lines.  If so, offer similar products
 
 * Lost 45% of the female customer base to the competitors for the following reasons:
      * Competitors made better offers (37%)
